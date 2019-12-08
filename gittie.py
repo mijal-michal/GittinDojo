@@ -1,5 +1,5 @@
 def intoduce():
-    print('Hello I\'m Gittie')
+    print('Hello I\'m Bamboo')
 
 
 def add():
