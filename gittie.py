@@ -10,6 +10,10 @@ def joke():
     print('Why Beyonce sings "Left to Right?"')
     print('Because niggers got no rights')
 
+def shout():
+    print('AaaaaaaAAAaaaaAaAAAAAAAAaaAA!!!!!!!!!!!!!!!!')
+
+
 intoduce()
 add()
 joke()
